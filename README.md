@@ -1,3 +1,3 @@
 # Sine & Cosine Animation
 
-<br>[Live Version Here](https://sinecosineanimation-sumanta.netlify.app/)
+<br>[Live Version Here](https://randommovements-sumanta.netlify.app/)
